@@ -7,3 +7,4 @@
 Sign. Verify. Protect. Making sure your software is what it claims to be.
 
 Learn more at https://sigstore.dev/
+# uses: diane.cloud@mail.com
